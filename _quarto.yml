@@ -10,7 +10,7 @@ website:
         text: Home
       - projects.qmd
     tools:
-      - icon: twitter
+      - icon: instagram
         href: https://twitter.com/
       - icon: github
         href: https://github.com/alexstapletonns/personal
