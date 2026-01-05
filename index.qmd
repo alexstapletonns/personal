@@ -1,5 +1,6 @@
 ---
 title: "About Me"
+subtitle: "Youth Ministry • Digital Strategy • Project Coordination"
 about:
   id: me
   template: broadside
@@ -10,9 +11,28 @@ about:
 
 ## Goals
 
+This is my goal
+
 ## Education
 
 ## Experience
+
+#### Student Navigator - IT Services
+
+Dalhousie University <br>
+<i>August 2023-December 2023</i>
+
+#### Human Resources Intern
+Archdiocese of Halifax-Yarmouth <br>
+<i>June 2023-August 2023</i>
+
+#### Technology Intern
+Halifax Public Libraries <br>
+<i>Summer 2020-2022</i>
+
+#### Children's Program Assistant
+Halifax Public Libraries <br>
+<i>Summer 2019</i>
 
 :::
 

@@ -3,9 +3,9 @@ project:
   output-dir: docs
   
 website:
-  title: "alexstapleton.ca"
+  title: "Alex Stapleton"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - projects.qmd
@@ -15,12 +15,12 @@ website:
       - icon: github
         href: https://github.com/alexstapletonns/personal
   page-footer:
-    right: "Built with [Quarto](https://quarto.org/)"
+    right: "Saint Carlo Acutis, Pray for Us!"
     left: "&copy; Copyright 2026, Alex Stapleton"
 
 format:
   html:
-    theme: cerulean
+    theme: Zephyr
     toc: true
 
 editor: source
